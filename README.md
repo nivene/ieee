@@ -1,9 +1,10 @@
 # ieee
 this is for the robot workspace
 # type the following commands:
-# git branch -M main
-# git push -u origin main
-or echo "# ieee" >> README.md
+git branch -M main
+git push -u origin main
+# or 
+echo "# ieee" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
