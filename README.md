@@ -8,8 +8,8 @@ It is necessary to have this remote repository and the local repository to have 
 
     git add '$file_you_want_to_add'
     git config pull.rebase false
-    git config pull.rebase false
-    git config pull.rebase false
+    git pull origin main
+    git push origin main
 
     echo "# ieee" >> README.md
     git init
