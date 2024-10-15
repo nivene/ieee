@@ -22,12 +22,5 @@ It is necessary to have this remote repository and the local repository to have 
     git pull origin main
     git push origin main
 
-    echo "# ieee" >> README.md
-    git init
-    git add README.md
-    git commit -m "first commit"
-    git branch -M main
-    git remote add origin git@github.com:nivene/ieee.git
-    git push -u origin main
 
 
