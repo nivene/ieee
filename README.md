@@ -1,7 +1,16 @@
 # WKU IEEE Robot 2025
-The WKU IEEE Robot is a EE/ME Senior Project. This is a repository for our (robot_ws). 
+The WKU IEEE Robot is a EE/ME Senior Project. This is a repository for our (robot_ws).
 
-![mining_mayhem](media/mining_mayhem.jpeg) 
+<p align="center">
+  <img src="media/wku_logo.png" alt="logo"/>
+</p>
+
+The goal of this robot is to compete in the IEEE Southeast Con 2025 Conference with the contest theme being mining mayhem.
+
+<p align="center">
+  <img src="media/mining_mayhem.jpeg" alt="mining mayhem" width="300"/>
+</p>
+
 
 Run these commands to accomplish your task. Make sure that you are in the `robot_ws` when you try to push anything. 
 
