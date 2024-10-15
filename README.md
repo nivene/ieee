@@ -1,6 +1,8 @@
 # WKU IEEE Robot 2025
 The WKU IEEE Robot is a EE/ME Senior Project. This is a repository for our (robot_ws). 
-## Utilizing Github with the project:
+
+![mining_mayhem](media/mining_mayhem.jpeg) 
+
 Run these commands to accomplish your task. Make sure that you are in the `robot_ws` when you try to push anything. 
 
 It is necessary to have this remote repository and the local repository to have the same changes, in order to do that the following commands need to be ran.
