@@ -1,0 +1,39 @@
+[0.018s] Invoking command in '/home/ieee/robot_ws/build/linorobot2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ieee/robot_ws/src/src/linorobot2/linorobot2 -DCMAKE_INSTALL_PREFIX=/home/ieee/robot_ws/install/linorobot2
+[0.054s] -- The C compiler identification is GNU 11.4.0
+[0.092s] -- The CXX compiler identification is GNU 11.4.0
+[0.097s] -- Detecting C compiler ABI info
+[0.139s] -- Detecting C compiler ABI info - done
+[0.145s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.145s] -- Detecting C compile features
+[0.146s] -- Detecting C compile features - done
+[0.148s] -- Detecting CXX compiler ABI info
+[0.198s] -- Detecting CXX compiler ABI info - done
+[0.208s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.209s] -- Detecting CXX compile features
+[0.209s] -- Detecting CXX compile features - done
+[0.211s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.318s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.426s] -- Configuring done
+[0.428s] -- Generating done
+[0.429s] -- Build files have been written to: /home/ieee/robot_ws/build/linorobot2
+[0.435s] Invoked command in '/home/ieee/robot_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ieee/robot_ws/src/src/linorobot2/linorobot2 -DCMAKE_INSTALL_PREFIX=/home/ieee/robot_ws/install/linorobot2
+[0.435s] Invoking command in '/home/ieee/robot_ws/build/linorobot2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/build/linorobot2 -- -j16 -l16
+[0.466s] Invoked command in '/home/ieee/robot_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/build/linorobot2 -- -j16 -l16
+[0.504s] Invoking command in '/home/ieee/robot_ws/build/linorobot2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/build/linorobot2
+[0.508s] -- Install configuration: ""
+[0.508s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/ament_index/resource_index/package_run_dependencies/linorobot2
+[0.508s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/ament_index/resource_index/parent_prefix_path/linorobot2
+[0.508s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/environment/ament_prefix_path.sh
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/environment/ament_prefix_path.dsv
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/environment/path.sh
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/environment/path.dsv
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/local_setup.bash
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/local_setup.sh
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/local_setup.zsh
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/local_setup.dsv
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/package.dsv
+[0.509s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/ament_index/resource_index/packages/linorobot2
+[0.510s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/cmake/linorobot2Config.cmake
+[0.510s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/cmake/linorobot2Config-version.cmake
+[0.510s] -- Installing: /home/ieee/robot_ws/install/linorobot2/share/linorobot2/package.xml
+[0.526s] Invoked command in '/home/ieee/robot_ws/build/linorobot2' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/build/linorobot2

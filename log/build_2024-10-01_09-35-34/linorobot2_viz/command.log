@@ -1,0 +1,4 @@
+Invoking command in '/home/ieee/robot_ws/build/linorobot2_viz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/build/linorobot2_viz -- -j16 -l16
+Invoked command in '/home/ieee/robot_ws/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/build/linorobot2_viz -- -j16 -l16
+Invoking command in '/home/ieee/robot_ws/build/linorobot2_viz': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/build/linorobot2_viz
+Invoked command in '/home/ieee/robot_ws/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/build/linorobot2_viz

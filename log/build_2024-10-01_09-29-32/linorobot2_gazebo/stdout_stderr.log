@@ -1,0 +1,55 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Found rclpy: 3.3.14 (/opt/ros/humble/share/rclpy/cmake)
+Traceback (most recent call last):
+  File "/home/ieee/robot_ws/src/src/linorobot2/linorobot2_gazebo/scripts/map2gazebo.py", line 3, in <module>
+    import trimesh
+ModuleNotFoundError: No module named 'trimesh'
+[33mCMake Warning at CMakeLists.txt:18 (message):
+  Python script execution failed with error code: 1
+
+[0m
+[33mCMake Warning at CMakeLists.txt:19 (message):
+  Script output:
+
+[0m
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ieee/robot_ws/build/linorobot2_gazebo
+-- Install configuration: ""
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/launch/gazebo.launch.py
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/rviz/view_urdf.rviz
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/playground.world
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/worlds/gas_station.world
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/lib/linorobot2_gazebo/command_timeout.py
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/linorobot2_gazebo.sh
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/ament_index/resource_index/package_run_dependencies/linorobot2_gazebo
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/ament_index/resource_index/parent_prefix_path/linorobot2_gazebo
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.sh
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/ament_prefix_path.dsv
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.sh
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/environment/path.dsv
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.bash
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.sh
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.zsh
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/local_setup.dsv
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.dsv
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/ament_index/resource_index/packages/linorobot2_gazebo
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig.cmake
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/cmake/linorobot2_gazeboConfig-version.cmake
+-- Installing: /home/ieee/robot_ws/install/linorobot2_gazebo/share/linorobot2_gazebo/package.xml

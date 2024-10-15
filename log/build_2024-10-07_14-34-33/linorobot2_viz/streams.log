@@ -1,0 +1,5 @@
+[0.007s] Invoking command in '/home/ieee/robot_ws/build/linorobot2_viz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/build/linorobot2_viz -- -j16 -l16
+[0.018s] [0mCMake Error: The source directory "/home/ieee/robot_ws/src/src/linorobot2_viz" does not exist.
+[0.018s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.019s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.021s] Invoked command in '/home/ieee/robot_ws/build/linorobot2_viz' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/build/linorobot2_viz -- -j16 -l16

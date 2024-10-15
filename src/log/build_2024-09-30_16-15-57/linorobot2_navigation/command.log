@@ -1,0 +1,6 @@
+Invoking command in '/home/ieee/robot_ws/src/build/linorobot2_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ieee/robot_ws/src/src/linorobot2/linorobot2_navigation -DCMAKE_INSTALL_PREFIX=/home/ieee/robot_ws/src/install/linorobot2_navigation
+Invoked command in '/home/ieee/robot_ws/src/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ieee/robot_ws/src/src/linorobot2/linorobot2_navigation -DCMAKE_INSTALL_PREFIX=/home/ieee/robot_ws/src/install/linorobot2_navigation
+Invoking command in '/home/ieee/robot_ws/src/build/linorobot2_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/src/build/linorobot2_navigation -- -j16 -l16
+Invoked command in '/home/ieee/robot_ws/src/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/src/build/linorobot2_navigation -- -j16 -l16
+Invoking command in '/home/ieee/robot_ws/src/build/linorobot2_navigation': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/src/build/linorobot2_navigation
+Invoked command in '/home/ieee/robot_ws/src/build/linorobot2_navigation' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/src/build/linorobot2_navigation

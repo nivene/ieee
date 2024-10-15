@@ -1,0 +1,29 @@
+[0.018s] Invoking command in '/home/ieee/robot_ws/src/build/linorobot2_viz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/src/build/linorobot2_viz -- -j16 -l16
+[0.039s] Invoked command in '/home/ieee/robot_ws/src/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/ieee/robot_ws/src/build/linorobot2_viz -- -j16 -l16
+[0.063s] Invoking command in '/home/ieee/robot_ws/src/build/linorobot2_viz': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/src/build/linorobot2_viz
+[0.068s] -- Install configuration: ""
+[0.068s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/launch
+[0.068s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/launch/slam.launch.py
+[0.068s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/launch/navigation.launch.py
+[0.068s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/launch/robot_model.launch.py
+[0.068s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/rviz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_navigation_minimal.rviz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_slam.rviz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/rviz/description.rviz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_navigation.rviz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/ament_index/resource_index/package_run_dependencies/linorobot2_viz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/ament_index/resource_index/parent_prefix_path/linorobot2_viz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/environment/ament_prefix_path.sh
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/environment/ament_prefix_path.dsv
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/environment/path.sh
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/environment/path.dsv
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/local_setup.bash
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/local_setup.sh
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/local_setup.zsh
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/local_setup.dsv
+[0.069s] -- Installing: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/package.dsv
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/ament_index/resource_index/packages/linorobot2_viz
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/cmake/linorobot2_vizConfig.cmake
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/cmake/linorobot2_vizConfig-version.cmake
+[0.069s] -- Up-to-date: /home/ieee/robot_ws/src/install/linorobot2_viz/share/linorobot2_viz/package.xml
+[0.093s] Invoked command in '/home/ieee/robot_ws/src/build/linorobot2_viz' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/ieee/robot_ws/src/build/linorobot2_viz

@@ -1,0 +1,25 @@
+-- Install configuration: ""
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/launch
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/launch/slam.launch.py
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/launch/navigation.launch.py
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/launch/robot_model.launch.py
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/rviz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_navigation_minimal.rviz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_slam.rviz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/description.rviz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/rviz/linorobot2_navigation.rviz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/ament_index/resource_index/package_run_dependencies/linorobot2_viz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/ament_index/resource_index/parent_prefix_path/linorobot2_viz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/environment/ament_prefix_path.sh
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/environment/path.sh
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/environment/path.dsv
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.bash
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.sh
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.zsh
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/local_setup.dsv
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/package.dsv
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/ament_index/resource_index/packages/linorobot2_viz
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/cmake/linorobot2_vizConfig.cmake
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/cmake/linorobot2_vizConfig-version.cmake
+-- Up-to-date: /home/ieee/robot_ws/install/linorobot2_viz/share/linorobot2_viz/package.xml

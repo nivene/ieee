@@ -1,0 +1,9 @@
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/uninstall.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/linorobot2_uninstall.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/test.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/edit_cache.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/rebuild_cache.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/list_install_components.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/install.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/install/local.dir
+/home/ieee/robot_ws/src/build/linorobot2/CMakeFiles/install/strip.dir
