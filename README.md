@@ -3,10 +3,13 @@ The WKU IEEE Robot is a EE/ME Senior Project. This is a repository for our (robo
 ## Utilizing Github with the project:
 Run these commands to accomplish your task. Make sure that you are in the `robot_ws` when you try to push anything. 
 
+It is necessary to have this remote repository and the local repository to have the same changes, in order to do that the following commands need to be ran.
 
-git branch -M main
-git push -u origin main
-## or 
+
+    git add '$file_you_want_to_add'
+    git config pull.rebase false
+    git config pull.rebase false
+    git config pull.rebase false
 
     echo "# ieee" >> README.md
     git init
@@ -17,7 +20,3 @@ git push -u origin main
     git push -u origin main
 
 
-    source /opt/ros/<ros_distro>/setup.bash
-    cd /tmp
-    wget https://raw.githubusercontent.com/linorobot/linorobot2/${ROS_DISTRO}/install_linorobot2.bash
-    bash install_linorobot2.bash <robot_type> <laser_sensor> <depth_sensor>
